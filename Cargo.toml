@@ -8,3 +8,6 @@ edition = "2018"
 
 [dependencies]
 num = "0.2"
+eval = "0.4.3"
+colored = "1.9.3"
+rodio = "0.10.0"
