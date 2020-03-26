@@ -43,3 +43,4 @@ num = "0.2"
 ## Rusty facts
 
 - associated functions are basically **static** methods (e.g `String::new`) and they are pertinent to the type not to an instance.
+- `println!("{:?}")`; Here `:?` is the debug flag; `:#?` adds the beautification to the print.
