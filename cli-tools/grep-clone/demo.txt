@@ -1,0 +1,7 @@
+this is
+a demo file, which this line contains demo twice
+containing absolutely
+nonsense garbage
+demo here too, while this is not a Demon
+demo Demo DemO dEMO demmo
+---

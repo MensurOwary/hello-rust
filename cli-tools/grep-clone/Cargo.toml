@@ -1,0 +1,11 @@
+[package]
+name = "grape"
+version = "0.1.0"
+authors = ["Mensur Qulami <mensurowary@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.2.10"
+failure = "0.1.5"
+exitfailure = "0.5.1"
+regex = "1"
