@@ -1,0 +1,18 @@
+[package]
+name = "kawai"
+version = "0.1.0"
+authors = ["Mensur Qulami <mensurowary@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+reqwest = { version = "0.10", features = ["blocking", "json"] }
+serde = "1.0"
+serde_json = { version = "1.0", optional = true }
+serde_derive = "1.0.105"
+textwrap = { version = "0.11", features = ["hyphenation"] }
+colored = "1.9"
+dialoguer="0.5.0"
+termion="1.5.5"
+structopt = "0.2.10"
+strum = "0.18.0"
+strum_macros = "0.18.0"
